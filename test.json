@@ -1,5 +1,84 @@
 {
-  "name": "John",
-  "price": 30,
-  "car": null
+  "products": [
+    {
+      "artnr": "000001",
+      "name": "black piké",
+      "price": "250",
+      "size": "small",
+      "colour": "black",
+      "image": "Images/black-pike.jpg"
+    },
+    {
+      "artnr": "000002",
+      "name": "black shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "black",
+      "image": "Images/black-shirt.jpg"
+    },
+    {
+      "artnr": "000003",
+      "name": "black t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "black",
+      "image": "Images/black-tshirt.jpg"
+    },
+    {
+      "artnr": "000004",
+      "name": "green t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "green",
+      "image": "Images/green-tshirt.jpg"
+    },
+    {
+      "artnr": "000005",
+      "name": "grey hoodie",
+      "price": "250",
+      "size": "small",
+      "colour": "grey",
+      "image": "Images/grey-hoodie.jpg"
+    },
+    {
+      "artnr": "000006",
+      "name": "grey sweater",
+      "price": "250",
+      "size": "small",
+      "colour": "grey",
+      "image": "Images/grey-sweater.jpg"
+    },
+    {
+      "artnr": "000007",
+      "name": "grey t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "grey",
+      "image": "Images/grey-tshirt.jpg"
+    },
+    {
+      "artnr": "000008",
+      "name": "red t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "red",
+      "image": "Images/red-tshirt.jpg"
+    },
+    {
+      "artnr": "000009",
+      "name": "white t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "white",
+      "image": "Images/white-tshirt.jpg"
+    },
+    {
+      "artnr": "000010",
+      "name": "yellow t-shirt",
+      "price": "250",
+      "size": "small",
+      "colour": "yellow",
+      "image": "Images/yellow-tshirt.jpg"
+    }
+  ]
 }
